@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align = "center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhSKumar&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh-S-Kumar&theme=dark" />
 </div>
 <div align="center">
