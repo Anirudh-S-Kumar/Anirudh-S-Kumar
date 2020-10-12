@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 <div align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Anirudh-S-Kumar&show_icons=true&theme=tokyonight&line_height=27">
 </div>
+<div align = "center">
+  <img align="center" src= "https://github.com/Anirudh-S-Kumar/Anirudh-S-Kumar/blob/main/Anirudh.jpg" />
+</div>
+
 <div align="center">
 
 ### Show some ❤️ by starring the repos!
