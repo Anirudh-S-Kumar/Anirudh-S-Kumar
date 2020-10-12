@@ -15,3 +15,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh-S-Kumar&theme=dark" />
 </div>
 <div align="center">
+
+### Show some ❤️ by starring the repos!
+
+</div>
