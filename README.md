@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I do Music Production
 
 <div align = "center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh-S-Kumar&theme=dark" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=Anirudh-S-Kumar&show_icons=true&theme=tokyonight&line_height=27">
 </div>
 <div align="center">
 
