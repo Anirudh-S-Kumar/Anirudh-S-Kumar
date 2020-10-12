@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on A Schedule Generator as part of my School Project
 - 🌱 I’m currently learning Object oriented programming (OOPS XDXD)
 - 💬 Ask me about Python
-- 📫 How to reach me: anirudh.skumar.o3@gmail.com
+- 📫 How to reach me: anirudh.skumar.03@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I do Music Production, and have been doing it for the past 3 years
 <div align = "center">
