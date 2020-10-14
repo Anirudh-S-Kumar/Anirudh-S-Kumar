@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on A Schedule Generator as part of my School Project
 - 🌱 I’m currently learning Object oriented programming (OOPS XDXD)
 - 💬 Ask me about Python
