@@ -5,6 +5,7 @@
 - 💬 Ask me about Python
 - 📫 How to reach me: anirudh.skumar.03@gmail.com
 - 😄 Pronouns: He/His
+- 🤓 Favourite Passtime : Solving questions from my exams using code
 - ⚡ Fun fact: I do Music Production, and have been doing it for the past 3 years
 <div align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Anirudh-S-Kumar&show_icons=true&theme=tokyonight&line_height=27">
