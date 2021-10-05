@@ -1,21 +1,20 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on A Schedule Generator as part of my School Project
-- 🌱 I’m currently learning Object oriented programming (OOPS XDXD)
+<!-- - 🔭 I’m currently working on A Schedule Generator as part of my School Project -->
+- 🌱 I’m currently learning about Cryptocurrencies and Java
 - 💬 Ask me about Python
 - 📫 How to reach me: anirudh.skumar.03@gmail.com
 - 😄 Pronouns: He/His
-- 🤓 Favourite Passtime : Solving questions from my exams using code
 - ⚡ Fun fact: I do Music Production, and have been doing it for the past 3 years
-<div align = "center">
+<!-- <div align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Anirudh-S-Kumar&show_icons=true&theme=tokyonight&line_height=27">
-</div>
-<div align = "center">
+</div> -->
+<!-- <div align = "center">
   <img align="center" src= "https://github.com/Anirudh-S-Kumar/Anirudh-S-Kumar/blob/main/Anirudh.jpg" />
-</div>
+</div> -->
 
 <div align="center">
 
-### Show some ❤️ by starring the repos!
+<!-- ### Show some ❤️ by starring the repos! -->
 
 </div>
