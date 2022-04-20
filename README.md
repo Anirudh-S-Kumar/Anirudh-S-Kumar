@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 <!-- - 🔭 I’m currently working on A Schedule Generator as part of my School Project -->
-- 🌱 I’m currently learning about Cryptocurrencies and Java
-- 💬 Ask me about Python
-- 📫 How to reach me: anirudh.skumar.03@gmail.com
+- 🌱 I’m currently learning about Artifical Intelligence and Computer Science at IIIT-D
+- 📫 How to reach me: anirudh21517@iiitd.ac.in
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I do Music Production, and have been doing it for the past 3 years
+- ⚡ Fun fact: I do Music Production, and have been doing it for the past 4 years
 <!-- <div align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Anirudh-S-Kumar&show_icons=true&theme=tokyonight&line_height=27">
 </div> -->
